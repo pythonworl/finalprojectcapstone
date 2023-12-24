@@ -1,37 +1,29 @@
-# Little Lemon :lemon:
 
-Welcome to the Little Lemon Restaurant website repository. This project was created as a part of the Meta Frontend Developer course. It's built using React and offers a stylish interface for users who want to explore the restaurant's menu and make reservations.
+Little Lemon :
+Welcome to the repository of the Little Lemon Restaurant website. This project is a result of completing the Meta Frontend Developer course, utilizing React to create a visually appealing interface for users interested in exploring the restaurant's menu and making reservations.
 
-![Website Preview](./src/assets/preview.png)
 
-## Live Preview
+Features:
+Effortless navigation across the pages.
+Stylish presentation of the restaurant's menu.
+Seamless reservation process through an interactive form.
+Instant reservation confirmation via a popup.
+Developed with React to provide a contemporary and engaging user experience.
+Available Scripts
+Within the project directory, execute the following commands:
 
-Check out the live version of the website! [View Live Demo](https://littlelemon.leanczo.vercel.app/)
+npm install:
+Use the npm install command to install all dependencies specified in your project's package.json file.
 
-## Features
+npm start:
+Launches the application in development mode.
+Visit http://localhost:3000 to preview it in your browser.
 
-- Smooth navigation through the pages.
-- Explore the restaurant's menu in style.
-- Make a reservation using an interactive form.
-- Receive a reservation confirmation through a popup.
-- Built with React for a modern and interactive user experience.
 
-## Available Scripts
+npm test:
+Initiates the test runner in an interactive watch mode.
+This command executes all application tests, offering real-time feedback on their status.
 
-In the project directory, you can run:
+Test files are conventionally situated in a directory labeled tests or possess a .test.js or .spec.js extension.
 
-### `npm install`
-The npm install command is used to install all the dependencies defined in your project's package.json file. 
-
-### `npm start`
-
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm test`
-Launches the test runner in the interactive watch mode.
-It runs all the tests for the application and provides feedback on their status.
-
-The test files are typically located in a directory named __tests__ or have a .test.js or .spec.js extension.
-
-Make sure to write comprehensive tests to ensure the stability and correctness of the application.
+Ensure the creation of thorough tests to guarantee the stability and accuracy of the application.
